@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+.imgCapa {
+    background-image: url(/img/capa.jpg);
+    
+}
+
+.card {
+    font-family: 'Redressed', cursive;
+    color: white;
+    margin-right: 1em;
+    text-align: center;
+    border-radius: 0;
+    width: 20rem;
+    
+    
+}
+
+.card-text{
+    font-size: 1.5rem;
+    
+}
+
+.card1{
+    background-color:#a3562a;
+
+}
+.card2 {
+    background-color:#44200b;
+}
+
+.card-title {
+    font-size: 2em;
+    color:rgb(255, 230, 8);
+}
+
+.btn {
+    background-color: rgb(255, 255, 255);
+    color: #4e3628;
+    font-size: 2em;
+}
+
+.bg-preto {
+    background-color: black;
+    color: rgb(255, 230, 0);
+    
+}
+
+.presidente{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 230, 0);
+    color: #4e3628;
+}
+
+.cardpresi {
+    background-color:  rgb(255, 230, 0);
+    border-color: #4e3628;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  #4e3628;
+}
+
+.conteudopresi {
+    font-size: 1.5rem;
+}
+
+.ultimage {
+    width: 80%;
+}
+
+.jumboRevoltas {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4e3628;
+    color: rgb(255, 230, 0);
+}
+
+.ulttxt {
+    font-size: 1.2rem;
+}

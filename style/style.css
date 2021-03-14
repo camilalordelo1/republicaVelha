@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
 
 .imgCapa {
-    background-image: url(./img/capa.jpg);
+    background-image: url(././img/capa.jpg);
     
 }
 
@@ -27,29 +27,29 @@
 
 }
 .card2 {
-    background-color:#44200b;
+    background-color: #44200b;
 }
 
 .card-title {
     font-size: 2em;
-    color:rgb(255, 230, 8);
+    color: #ffe600;
 }
 
 .btn {
-    background-color: rgb(255, 255, 255);
+    background-color: #ffe600;
     color: #4e3628;
     font-size: 2em;
 }
 
 .bg-preto {
     background-color: black;
-    color: rgb(255, 230, 0);
+    color: #ffe600;
     
 }
 
 .presidente{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(255, 230, 0);
+    background-color: #ffe600;
     color: #4e3628;
 }
 
@@ -71,7 +71,7 @@
 .jumboRevoltas {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4e3628;
-    color: rgb(255, 230, 0);
+    color: #ffe600;
 }
 
 .ulttxt {

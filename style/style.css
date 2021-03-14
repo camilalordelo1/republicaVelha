@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
 
 .imgCapa {
-    background-image: url(/./img/capa.jpg);
+    background-image: url(../img/capa.jpg);
     
 }
 
